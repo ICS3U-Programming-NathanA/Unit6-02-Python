@@ -3,7 +3,7 @@
 # Created by: Nathan Araujo
 # Date: Dec.15, 2022
 # This program generates 10 random numbers and
-# prints the largest  out of the list of 10 random numbers
+# prints the largest  out of the list of 10 random numbers, it then displays it
 
 import random
 import constants
