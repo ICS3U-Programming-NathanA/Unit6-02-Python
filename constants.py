@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Created by: Chris Di Bert
+# Created by: Nathan Araujo
 # Date: Dec.9, 2022
 # This file contains the necessary constants
 # needed for average_calc.py
